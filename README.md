@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 💻 Desenvolvedor Front-end apaixonado por transformar ideias em interfaces funcionais e criativas.
 
