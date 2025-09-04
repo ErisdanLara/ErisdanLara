@@ -1,6 +1,6 @@
 ## Olá 👋
 
-💻 Desenvolvedor Front-end apaixonado por transformar ideias em interfaces funcionais e criativas.
+💻 Desenvolvedor Full-Stack apaixonado por transformar ideias em interfaces funcionais e criativas.
 
 🚀 Experiência em HTML | CSS | JavaScript para construção de aplicações modernas e responsivas.
 
